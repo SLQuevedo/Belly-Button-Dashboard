@@ -44,7 +44,7 @@ function buildMetadata(sample) {
       
       var gaugelayout = {
         title: "Belly Button Washing Frequency <br> Scrubs per Week",
-        margin:  { t: 10, b: 0 },
+        margin:  { t: -3, b: 0 },
         width: 600, 
         height: 450
     };
